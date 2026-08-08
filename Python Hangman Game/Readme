@@ -1,0 +1,120 @@
+# 🎮 Python Hangman Game
+
+A simple **text-based Hangman game built from scratch using Python** as part of my Python Programming Internship at CodeAlpha.
+
+This project was created to practice core Python concepts such as strings, lists, loops, conditional statements, user input, and random word selection.
+
+## 📌 About the Project
+
+Hangman is a word-guessing game where the player attempts to reveal a hidden word by guessing one letter at a time.
+
+The player has **6 incorrect attempts** available. The objective is to guess the complete word before running out of attempts.
+
+## ✨ Features
+
+* 🎯 Randomly selects a word for each game
+* 🔤 Allows the player to guess one letter at a time
+* ❤️ Provides 6 incorrect attempts
+* 🔄 Displays the progress of the hidden word
+* 🚫 Handles repeated guesses
+* ✅ Detects winning and losing conditions
+* 💬 Provides interactive feedback throughout the game
+
+## 🛠️ Technologies Used
+
+* **Python**
+* `random` module
+* Lists
+* Strings
+* Loops
+* Conditional statements
+* User input
+
+## 📂 Project Structure
+
+```text
+python-hangman-game/
+│
+├── hangman.py
+└── README.md
+```
+
+## 🚀 How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/python-hangman-game.git
+```
+
+### 2. Open the project folder
+
+```bash
+cd python-hangman-game
+```
+
+### 3. Run the game
+
+```bash
+python hangman.py
+```
+
+## 🎮 How to Play
+
+1. Start the game.
+2. A hidden word will be selected randomly.
+3. Guess one letter at a time.
+4. Correct guesses reveal the letters in the word.
+5. Incorrect guesses reduce your remaining attempts.
+6. Guess the complete word before all 6 attempts are used to win.
+
+## 💻 Example
+
+```text
+Welcome to Hangman!
+
+Word: _ _ _ _ _
+
+Guess a letter: p
+
+Good guess!
+
+Word: p _ _ _ _
+
+Guess a letter: y
+
+Good guess!
+
+Word: p y _ _ _
+
+...
+
+Congratulations! You guessed the word!
+```
+
+## 📚 What I Learned
+
+Building this project helped me practice:
+
+* Working with strings and lists
+* Using loops to control gameplay
+* Applying conditional logic
+* Using the `random` module
+* Validating user input
+* Tracking game state
+* Handling repeated guesses
+* Designing win and loss conditions
+* Breaking a problem into smaller logical steps
+
+## 🎯 Future Improvements
+
+Some improvements I would like to add in the future:
+
+* 🏆 Score tracking
+* 🔄 Replay option
+* 📊 Difficulty levels
+* 📚 A larger word database
+* 🎨 ASCII Hangman graphics
+* 💾 Storing game statistics
+
+
