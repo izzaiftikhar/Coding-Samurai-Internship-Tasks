@@ -1,25 +1,25 @@
-# 🤖 Rule-Based AI Chatbot
+# Rule-Based AI Chatbot
 
 A simple **rule-based chatbot built from scratch using Python** as part of my Python Programming Internship at CodeAlpha.
 
 This project is my first step into building interactive applications and exploring the fundamentals of conversational systems and Artificial Intelligence.
 
-## 📌 About the Project
+## About the Project
 
 This chatbot interacts with users through a continuous conversation flow and generates responses based on predefined rules and user inputs.
 
 It uses basic Python programming concepts such as conditional statements, loops, functions, and user input handling to simulate a simple conversation.
 
-## ✨ Features
+## Features
 
-* 👋 Responds to greetings such as `hello`, `hi`, and `hey`
-* 💬 Handles simple conversational questions
-* 🤖 Responds to predefined user inputs
-* 🔄 Maintains a continuous conversation loop
-* 👋 Ends the conversation when the user types `bye`
-* 🧩 Uses simple rule-based decision making
+* Responds to greetings such as `hello`, `hi`, and `hey`
+* Handles simple conversational questions
+* Responds to predefined user inputs
+* Maintains a continuous conversation loop
+* Ends the conversation when the user types `bye`
+* Uses simple rule-based decision making
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Python**
 * Python functions
@@ -27,7 +27,7 @@ It uses basic Python programming concepts such as conditional statements, loops,
 * `if-elif-else` statements
 * User input/output
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 rule-based-ai-chatbot/
@@ -36,7 +36,7 @@ rule-based-ai-chatbot/
 └── README.md
 ```
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Clone the repository
 
@@ -74,7 +74,7 @@ You: bye
 Chatbot: Goodbye! Have a great day.
 ```
 
-## 📚 What I Learned
+## What I Learned
 
 Through this project, I practiced:
 
@@ -86,7 +86,7 @@ Through this project, I practiced:
 * Building a simple interactive application
 * Understanding the basic idea behind rule-based conversational systems
 
-## 🎯 Future Improvements
+## Future Improvements
 
 I plan to improve this project by adding:
 
